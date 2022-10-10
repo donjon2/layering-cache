@@ -11,7 +11,7 @@ public class LayeringCacheProperties {
     /**
      * 是否开启缓存统计
      */
-    private boolean stats = true;
+    private boolean stats = false;
 
     /**
      * 命名空间，必须唯一般使用服务名
